@@ -164,18 +164,3 @@ This list is provided for informational purposes only. Inclusion does not imply 
 ---
 
 If you find this list useful, consider giving it a star and sharing it with others who value digital privacy and data ownership.
-
-<!-- support:sweep -->
-## Support
-
-One person's work: no company, no ads, no tracking, no paid tier. If it saved you an
-afternoon, a contribution keeps the next one coming — any amount, or none.
-
-| | |
-|---|---|
-| **UPI** | `drsohilboi@ybl` |
-| **Ko-fi** | [ko-fi.com/matneo](https://ko-fi.com/matneo) |
-| **PayPal** | [paypal.me/drsohilmomin](https://paypal.me/drsohilmomin?locale.x=en_GB&country.x=IN) |
-| **Books** | [the author's other work](https://www.amazon.com/stores/author/B08ZT331LY/allbooks) |
-| **Elsewhere** | [all projects](https://drsamonline.github.io/) |
-| **Email** | [sohilmomin2000@gmail.com](mailto:sohilmomin2000@gmail.com) — bugs, corrections, requests |
